@@ -23,7 +23,7 @@
   height: 100px;
 }
 body {
-  background-image: url("/Users/sophiaaziz/Desktop/projects/portfolio/challenge2/images/c.jpg");
+  background-image: url("../images/c.jpg");
 }
 .footer {
   background: rgb(7, 7, 7);
